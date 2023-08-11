@@ -1,0 +1,27 @@
+state={
+	id=909
+
+	name="STATE_909"
+	provinces={
+		6287 
+	}
+	manpower=625280
+	state_category = city
+	history={
+		owner = HRE
+		victory_points = {
+			6287 5
+		}
+		
+		set_demilitarized_zone = yes
+		
+		buildings = {
+			infrastructure = 3
+			6287 = {
+				naval_base = 4
+			}
+		}
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

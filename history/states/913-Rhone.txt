@@ -1,0 +1,31 @@
+
+state={
+	id=913
+	name="STATE_913"
+	resources={
+		steel=30.000
+		aluminium=30.000
+	}
+
+	history={
+		owner = HRE
+		add_core_of = HRE
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			3768 1 
+		}
+		add_core_of = HRE
+
+	}
+
+	provinces={
+		641 3650 6639 6668 9590
+	}
+	manpower=1007500
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=9.000
+}
