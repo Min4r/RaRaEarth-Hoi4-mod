@@ -4,6 +4,10 @@ GBR = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
+NUN = {
+	color = rgb { 60 60 60 }
+	color_ui = rgb { 90 90 90 }
+}
 HRE = {
 	color = rgb { 128 128 128 }
 	color_ui = rgb { 128 128 128 }
