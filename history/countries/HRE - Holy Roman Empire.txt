@@ -19,6 +19,7 @@ set_popularities = {
 create_faction = Steel_Treaty
 add_to_faction = HRE
 add_to_faction = GBR
+add_to_faction = BRG
 
 set_research_slots = 5
 set_stability = 0.82
@@ -51,7 +52,7 @@ create_country_leader = {
 	name = "Arirya"
 	picture = "gfx//leaders//HRE//portrait_HRE_Arirya.dds"
 	expire = "1965.1.1"
-	ideology = neutrality
+	ideology = centrism
 	traits = {
 		#
 	}

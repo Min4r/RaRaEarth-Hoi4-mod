@@ -1,0 +1,31 @@
+
+state={
+	id=915
+	name="STATE_915"
+	provinces={
+		9534 11506 11518 
+	}
+	manpower=2332100
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+
+
+		state_category=city
+
+	history={
+		owner = BRG
+		victory_points = {
+			11506 20
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			air_base = 6
+			6449 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+
+		}
+		add_core_of = BRG
+}
