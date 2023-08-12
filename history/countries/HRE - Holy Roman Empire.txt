@@ -12,10 +12,10 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 0
-	fascism = 20
-	communism = 0
-	neutrality = 80
+	democratic = 1
+	fascism = 27
+	communism = 1
+	neutrality = 71
 }
 
 create_faction = Steel_Treaty
