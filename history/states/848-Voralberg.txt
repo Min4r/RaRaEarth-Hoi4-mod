@@ -5,17 +5,17 @@ state={
 	manpower = 154354
 	state_category = pastoral
 	history={
-		owner = HRE
+		owner = KNS
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = HRE
-		add_claim_by = HRE
+		add_core_of = KNS
+		add_claim_by = KNS
 		1938.3.12 = {
-			owner = HRE
-			controller = HRE
-			add_core_of = HRE
+			owner = KNS
+			controller = KNS
+			add_core_of = KNS
 		}
 	}
 	provinces={

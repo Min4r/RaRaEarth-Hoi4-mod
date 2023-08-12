@@ -11,17 +11,17 @@ state={
 	state_category = large_city
 
 	history={
-		owner = HRE
+		owner = KNS
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
-			industrial_complex = 6
+			arms_factory = 4
+			industrial_complex = 4
 			air_base = 4
 		}
 		victory_points = {
 			9660 20 
 		}
-		add_core_of = HRE
+		add_core_of = KNS
 	}
 
 	provinces={

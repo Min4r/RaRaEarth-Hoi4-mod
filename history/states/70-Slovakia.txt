@@ -10,8 +10,7 @@ state={
 	}
 
 	history={
-		owner = HRE
-		add_core_of = HRE
+		owner = KNS
 		victory_points = {
 			9692 10
 		}
@@ -20,16 +19,16 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 4
-			arms_factory = 0
+			industrial_complex = 3
+			arms_factory = 2
 			air_base = 3
 		}
-		add_core_of = HRE
+		add_core_of = KNS
 
 		1939.3.14 = {
-			owner = SLO
-			controller = SLO
-			add_core_of = SLO
+			owner = KNS
+			controller = KNS
+			add_core_of = KNS
 		}
 	}
 

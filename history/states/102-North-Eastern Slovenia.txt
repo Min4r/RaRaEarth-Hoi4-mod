@@ -8,15 +8,14 @@ state=
 	
 	history =
 	{
-		owner = HRE
-		add_core_of = HRE
+		owner = KNS
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {
 			665 1
 		}
-		add_core_of = HRE
+		add_core_of = KNS
 	}
 	provinces={
 		596 665 3631 3654 6672 9596

@@ -8,8 +8,7 @@ state={
 
 
 	history={
-		owner = HRE
-		add_core_of = HRE
+		owner = KNS
 		victory_points = { #Dubrovnik
 			6889 3 
 		}
@@ -27,9 +26,9 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = HRE
-		#add_claim_by = ITA #added by focus
-		add_core_of = HRE
+		add_core_of = KNS
+		#add_claim_by = KNS #added by focus
+		add_core_of = KNS
 	}
 
 	provinces={
