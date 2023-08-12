@@ -14,8 +14,8 @@ state={
 		owner = HRE
 		buildings = {
 			infrastructure = 3
-			arms_factory = 4
-			industrial_complex = 4
+			arms_factory = 1
+			industrial_complex = 6
 			air_base = 4
 		}
 		victory_points = {

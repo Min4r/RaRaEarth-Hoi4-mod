@@ -15,16 +15,15 @@ state={
 		add_core_of = HRE
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
 
 		}
 
 	}
 
 	provinces={
-		454 3402 3447 9561 11549 13011 
+		454 3402 3447 9561 11549
 	}
-	manpower=1580000
+	manpower=1180000
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000
