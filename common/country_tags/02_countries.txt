@@ -1,0 +1,7 @@
+HRE = "countries/Holy Roman Empire.txt"
+GBR = "countries/United Kingdom.txt"
+BRG = "countries/Ordensstaat Burgund.txt"
+NUN = "countries/Nuns House.txt"
+FRK = "countries/France Kingdom.txt"
+KNS = "countries/kansai.txt"
+RMA = "countries/Romania.txt"

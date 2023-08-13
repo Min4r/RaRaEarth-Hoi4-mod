@@ -1,0 +1,28 @@
+capital = 46
+#oob = ""
+set_research_slots = 4
+set_stability = 0.75
+set_war_support = 0.2
+set_convoys = 100
+#set_technology = {}
+set_politics = {
+	ruling_party = democratic
+	last_election = 1936.1.1
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 100
+	fascism = 0
+	communism = 0
+	neutrality = 0
+}
+create_country_leader = {
+	
+	name = "PenGoRM"
+	picture = "gfx//leaders//RMA//portrait_RMA_PenGoRM.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}

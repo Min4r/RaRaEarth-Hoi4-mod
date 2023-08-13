@@ -52,9 +52,8 @@ create_country_leader = {
 	name = "Arirya"
 	picture = "gfx//leaders//HRE//portrait_HRE_Arirya.dds"
 	expire = "1965.1.1"
-	ideology = centrism
+	ideology = oligarchism
 	traits = {
-		#
 	}
 }
 

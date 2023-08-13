@@ -21,3 +21,12 @@ set_popularities = {
 	communism = 0
 	neutrality = 0
 }
+create_country_leader = {
+	
+	name = "saa_roog"
+	picture = "gfx//leaders//BRG//portrait_BRG_saa_roog.dds"
+	expire = "1965.1.1"
+	ideology = nazism
+	traits = {
+	}
+}
